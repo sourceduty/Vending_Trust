@@ -1,6 +1,6 @@
-🏧 Examining trust issues between businesses and their vending machines.
-
 ![Vending Machine](https://github.com/sourceduty/Vending_Trust/assets/123030236/f1dbf568-0b57-4981-99bc-200d47cbab1c)
+
+🏧 Examining trust issues between businesses and their vending machines.
 
 ### Report on Trust Issues Between Businesses and Their Vending Machines
 

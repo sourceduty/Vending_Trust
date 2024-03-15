@@ -37,6 +37,8 @@ Conclusion
 
 The trust issues between businesses and their vending machines, primarily arising from theft and vandalism, pose significant challenges to the operational efficiency and profitability of vending services. By implementing advanced security measures, strategically placing vending machines, engaging with the community, and ensuring regular maintenance, businesses can mitigate these challenges and rebuild trust in their vending operations.
 
+![Trusted](https://github.com/sourceduty/Vending_Trust/assets/123030236/05ed0443-986d-426b-a6dc-6ca0eada1764)
+
 ***
 
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
